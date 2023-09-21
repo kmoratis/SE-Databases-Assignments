@@ -5,7 +5,7 @@ Deliverable_1:
 - User requirements
 - Use Cases
 - User Interfaces
-- Static Modeling ( Class Modeling - BEC )
+- Static Modeling ( Class Modeling - MVC design pattern )
 
 Deliverable_2:
 - System Architecture
