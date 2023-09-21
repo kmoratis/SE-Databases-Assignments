@@ -1,4 +1,19 @@
 # Software Engineering and Databases Assignments.
-Assignments for 
-  - Software engineering 1 course.
-  - Databases course.
+
+### Software Engineering 1
+Deliverable_1:
+- User requirements
+- Use Cases
+- User Interfaces
+- Static Modeling ( Class Modeling - BEC )
+
+Deliverable_2:
+- System Architecture
+- REST APIs specification with Swagger
+- Flow-based programming with NodeRED low-code Platform
+
+
+### Databases
+- User Requirements
+- Entity-Relationship Model
+- Relational Model
